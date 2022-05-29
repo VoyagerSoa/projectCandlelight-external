@@ -1,0 +1,12 @@
+version=1
+id=
+title=projectCandlelight-external
+description=[h1]projectCandlelight-external: - the helping hand of 18+ hardcore PZ roleplay[/h1]
+description=
+description=All mods featured in projectCandlelight-external are featured with the original author's permission and license. Thank you! They will be listed here.  
+description=Blair Algol
+description=To report bugs or issues, please track our Github at: [url="https://github.com/VoyagerSoa/projectCandlelight-external"]THIS LINK[/url].
+description=
+description=Be advised that using this pack does not guarantee warranty or support. We prioritize issues raised from within our server that this pack is made for.
+tags=Build 41
+visibility=public
